@@ -15,6 +15,12 @@ Light Weight Syslog is a small WinForms syslog receiver for ad-hoc diagnostics o
 
 ## Run
 
+If you do not have Visual Studio, download the packaged app from
+[`published/LightWeightSyslog-net48.zip`](published/LightWeightSyslog-net48.zip),
+extract it, and open `Run-LightWeightSyslog.cmd`.
+
+If you cloned the repository locally:
+
 1. Open `Run-LightWeightSyslog.cmd`
 2. Or launch `bin\Release\net48\LightWeightSyslog.exe`
 
